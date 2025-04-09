@@ -83,7 +83,8 @@ httpd.serve_forever()
 ## OUTPUT:
 ![alt text](<Screenshot 2025-04-09 140756.png>)
 ![alt text](<Screenshot 2025-04-09 140831.png>)
-
+212224040081
+DIVYASHREE B
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
